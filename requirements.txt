@@ -1,0 +1,6 @@
+pulp>=2.7.0
+pandas>=2.0.0
+numpy>=1.26.0
+geopandas>=0.14.0
+matplotlib>=3.8.0
+openpyxl>=3.1.0
