@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 ### 3. Download data
 
-See [`data/README.md`](data/README.md) for download links and placement.
+See [`data`](County_CHAS_with_FMR_RSMeans.csv) for download links and placement.
 
 ### 4. Run the optimization model
 
